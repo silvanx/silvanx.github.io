@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Kuba Orłowski"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  bio              : "Closed-loop neuroscientist"
+  location         : "Baile Átha Cliath, Éire"
+  employer         : "University College Dublin"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ggRcdNwAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5380-3275"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "orlowski_j"
   vine             :
   weibo            :
   xing             :
