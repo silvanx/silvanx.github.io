@@ -1,11 +1,8 @@
 ---
 title: "Real-World Evolution of Robot Morphologies: A Proof of Concept"
 collection: publications
-permalink: /publication/
-excerpt: ''
 date: 2017-05-01
 venue: 'Artificial Life'
-paperurl: 'http://silvanx.github.io/files/'
 citation: ''
 ---
 
