@@ -1,7 +1,7 @@
 ---
 title: "Real-World Evolution of Robot Morphologies: A Proof of Concept"
 collection: publications
-permalink: ''
+permalink: /publication/2017-jelisavcic-et-al-evolutionary-robotics
 excerpt: ''
 date: 2017-05-01
 venue: 'Artificial Life'
