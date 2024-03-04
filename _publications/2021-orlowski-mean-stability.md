@@ -1,7 +1,7 @@
 ---
 title: "Adaptive control of Lipschitz time-delay systems by sigma modification with application to neuronal population dynamics"
 collection: publications
-permalink: /publication/orlowski-2021-mean-stability.pdf
+permalink: /publication/orlowski-2021-mean-stability
 excerpt: ''
 date: 2021-10-07
 venue: 'Systems & Control Letters'

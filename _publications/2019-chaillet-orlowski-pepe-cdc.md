@@ -1,7 +1,7 @@
 ---
 title: "A relaxed Lyapunov-Krasovskii condition for global exponential stability of Lipschitz time-delay systems"
 collection: publications
-permalink: /publication/CDC2019_Chaillet_Orlowski_Pepe.pdf
+permalink: /publication/CDC2019_Chaillet_Orlowski_Pepe
 excerpt: ''
 date: 2009-12-01
 venue: '2019 IEEE 58th Conference on Decision and Control (CDC)'

@@ -1,7 +1,7 @@
 ---
 title: "Self-Tuning Deep Brain Stimulation Controller for Suppression of Beta Oscillations: Analytical Derivation and Numerical Validation"
 collection: publications
-permalink: /publication/2020-fleming-orlowski-self-tuning.pdf
+permalink: /publication/2020-fleming-orlowski-self-tuning
 excerpt: ''
 date: 2020-06-30
 venue: 'Frontiers in Neuroscience'

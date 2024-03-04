@@ -1,7 +1,7 @@
 ---
 title: "Counterexample to a Lyapunov Condition for Uniform Asymptotic Partial Stability"
 collection: publications
-permalink: /publication/orlowski-2019-counterexample-to-vorotnikov.pdf
+permalink: /publication/orlowski-2019-counterexample-to-vorotnikov
 excerpt: ''
 date: 2019-12-05
 venue: 'IEEE Control System Letters'
