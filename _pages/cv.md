@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Control Theory, Universite Paris Saclay, 2019
-* M.Sc. in Neuroinformatics, University of Warsaw, 2016
-* B.Sc. in Neuroinformatics, University of Warsaw, 2014
+* Ph.D in Control Theory, Universite Paris Saclay, December 2019
+  Thesis: *Adaptive control of time-delay systems to counteract pathological brain oscillations*
+* M.Sc. in Neuroinformatics, University of Warsaw, September 2016
+  Thesis: *Measurement of local field potentials generated due to charge accumulation effect*
+* B.Sc. in Neuroinformatics, University of Warsaw, September 2014
+  Thesis: *Parametrization of evoked potentials in data acquired from a group of ASD patients and a control group*
 
 
 Publications
