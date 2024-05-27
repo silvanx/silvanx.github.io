@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "SilVerDBS"
+    url: /silverdbs/
+
 #  - title: "Talks"
 #    url: /talks/    
 
