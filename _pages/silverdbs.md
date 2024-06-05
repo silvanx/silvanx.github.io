@@ -23,4 +23,6 @@ Conference publications
 
 Other conference appearances
 ====
-* SfN 2023
+* SfN 2023, Washington, D.C., *Identification of controller parameters for closed-loop deep brain stimulation* (Poster presentation)
+* 12th International Congress of Societas Humboldtiana Polonorum, Łódź, Poland, *Turning the dials of adaptive deep brain stimulation* (Flash talk and poster presentation); *1st Prize in the Young Researchers session*
+* EMBC 2022, Glasgow, UK, *Wireless Closed-Loop DBS in Free-Moving 6-OHDA Rats* (Poster presentation)
