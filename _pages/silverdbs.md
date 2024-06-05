@@ -7,8 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-SilVerDBS - or how I stopped worrying and loved the Marie Curie-Skłodowska Action
+Or how I stopped worrying and loved the Marie Curie-Skłodowska Action
 =====
+SilVerDBS - *Practical design of closed-loop DBS algorithms using systematic in SILico VERification*
 The goal of this project is to propose and systematically analyse novel closed-loop controllers for deep brain stimulation (DBS).
 
 Journal articles
