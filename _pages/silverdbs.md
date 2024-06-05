@@ -9,11 +9,12 @@ author_profile: true
 
 SilVerDBS - or how I stopped worrying and loved the Marie Curie-Skłodowska Action
 =====
-
+The goal of this project is to propose and systematically analyse novel closed-loop controllers for deep brain stimulation (DBS).
 
 Journal articles
 =====
-* Evers, J., Orłowski, J., Jahns, H., & Lowery, M. M. (2023). *On-Off and Proportional Closed-Loop Adaptive Deep Brain Stimulation Reduces Motor Symptoms in Freely Moving Hemiparkinsonian Rats*. In Neuromodulation: Technology at the Neural Interface. Elsevier BV
+* Evers, J., Orłowski, J., Jahns, H., & Lowery, M. M. (2023). *On-Off and Proportional Closed-Loop Adaptive Deep Brain Stimulation Reduces Motor Symptoms in Freely Moving Hemiparkinsonian Rats*. In Neuromodulation: Technology at the Neural Interface. Elsevier BV Download: <a href="https://doi.org/10.1016/j.neurom.2023.03.018"><u>Publisher</u></a>
+
 
 Conference publications
 =====
