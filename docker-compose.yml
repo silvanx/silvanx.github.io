@@ -1,0 +1,10 @@
+services:
+  app:
+    image: jekyll/jekyll
+    ports:
+      - "4000:4000"
+    volumes:
+      - ".:/srv/jekyll"
+    command: jekyll serve -H 0.0.0.0 -V --config _config.yml,_config_docker.yml
+    environment:
+      JEKYLL_ENV: "docker"
