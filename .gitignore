@@ -1,3 +1,5 @@
 _site/
 _publications/00-template.md
-
+.bundle/
+vendor/
+Gemfile.lock
