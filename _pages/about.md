@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Closed-loop neuroscience, and other things
-
 I study how the brain responds to electrical stimulation, and how to make that stimulation smarter.
 My work sits at the intersection of neuroscience, control theory, and simulation: building models of neural tissue, designing algorithms that adapt in real time, and trying to understand what "closing the loop" between brain and device means in practice.
 
